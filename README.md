@@ -25,8 +25,8 @@ A modern music player that brings your favorite music together in one place. Dis
 
 Get the latest version of Zoeify Music Player and enjoy your music experience.
 
-- Version code 2
-- Version name1.1
+- Version code: 2
+- Version name: 1.1
 
 [**Download Zoeify Music Player**](https://github.com/Xirtexe/zoeify/blob/main/ZoeifyV2.apk)
 
