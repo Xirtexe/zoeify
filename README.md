@@ -28,7 +28,7 @@ Get the latest version of Zoeify Music Player and enjoy your music experience.
 - Version code: 2
 - Version name: 1.1
 
-[**Download Zoeify Music Player**](https://github.com/Xirtexe/zoeify/blob/main/ZoeifyV2.apk)
+[**Download Zoeify Music Player**](https://github.com/Xirtexe/zoeify/raw/refs/heads/main/ZoeifyV2.apk)
 
 ## About
 
